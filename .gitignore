@@ -1,0 +1,5 @@
+terraform.tfstate*
+twitter.tfvars
+twitter-bot-hello.zip
+python-lib*
+.terraform*
